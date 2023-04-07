@@ -7,9 +7,11 @@ layout: page
 
 Currently splitting my time between tinkering with neural nets (especially LLMs) and figuring out the next problem to work on. You can see the problems I'm researching [here](/problems/). 
 
-I tend to have a great time meeting people. Don't hesitate to reach out at shipilovya [at] gmail [dot] com or on [Twitter](https://twitter.com/yaroshipilov). I'm happy to brainstorm with you, review your post draft, or chat / meet up in general.
+I tend to have a great time meeting people. Don't hesitate to reach out at shipilovya [at] gmail [dot] com or on [Twitter](https://twitter.com/yaroshipilov). I'm happy to brainstorm with you, review your draft, or chat / meet up in general.
 
-Here are some things I've worked on in the past. This list is a work in progress.
+Originally I'm from a small town in Siberia, and now I live near San Francisco.
+
+Below are some things I've worked on in the past. This list is a work in progress.
 
 ### Steller
 
