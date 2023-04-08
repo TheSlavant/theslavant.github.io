@@ -33,7 +33,8 @@ Problems
 - How do we know if the LLM is being truthful and complete in its answers?
 - How do we align LLMs on modes where RLHF fails, e.g. introspecive reasoning?
 - What can we learn from inverse scaling?
-- ...
+- How can we improve the way AI models are shared, bought/sold, and deployed?
+- How can we make LLMs “get us”, so they can provide the best possible answer given more general prompts?
 
 ### **Education & human potential**
 
